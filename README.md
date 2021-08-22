@@ -26,3 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Screenshot
+
+![Homework Screenshot](https://github.com/emiremen/kodluyoruzilkrepo/blob/main/screenshot.png)
